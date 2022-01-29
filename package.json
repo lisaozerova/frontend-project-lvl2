@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Вычислитель отличий",
+  "main": "index.js",
+  "bin": {
+    "code": "bin/gendiff.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaozerova/frontend-project-lvl2.git"
+  },
+  "author": "Lisa Ozerova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisaozerova/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/lisaozerova/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
+}
